@@ -1,0 +1,334 @@
+ID,unit_address_as_provided,ADDRESS,state,city,zip_code,rent
+1,"2613 Grand Canyon Mckinney, TX 75072-2332",2613 Grand Canyon Ct,TX,Mckinney,75072,2001
+2,"829 Barcelona Mesquite, TX 75150-4389",829 Barcelona Cir,TX,Mesquite,75150,1719
+3,"7404 Rutgers #A Rowlett, TX 75088-8552",7404 Rutgers Cir,TX,Rowlett,75088,1812
+4,"7404 Rutgers #B Rowlett, TX 75088-8552",7404 Rutgers Cir,TX,Rowlett,75088,1812
+5,"322 Antler Court Lewisville, TX 75067-6505",322 Antler Ct,TX,Lewisville,75067,2046
+6,"7121 Starnes Road North Richland Hills, TX 76182-7721",7121 Starnes Rd,TX,North Richland Hills,76182,1991
+7,"1401 Paris Grand Prairie, TX 75050-3264",1401 Paris Dr,TX,Grand Prairie,75050,1840
+8,"1336 Lakecrest Lewisville, TX 75057-2615",1336 Lake Crest Ln,TX,Lewisville,75057,1669
+9,"1320 Lakecrest Ln Lewisville, TX 75057-2615",1320 Lake Crest Ln,TX,Lewisville,75057,1669
+10,"1433 Lakecrest Lewisville, TX 75057-2670",1433 Lake Crest Ln,TX,Lewisville,75057,1681
+11,"2417 Stone Creek Plano, TX 75075-2941",2417 Stone Creek Dr,TX,Plano,75075,2372
+12,"3005 Saddlehead Plano, TX 75075-1529",3005 Saddlehead Dr,TX,Plano,75075,2377
+13,"280 Meadowcrest Terrell, TX 75160-5109",280 Meadowcrest Dr,TX,Terrell,75160,1666
+14,"1103 Alexandria Forney, TX 75126",1103 Alexandria Dr,TX,Forney,75126,1807
+15,"14433 Serrano Ridge Road Haslet, TX 76052-5855",14433 Serrano Ridge Rd,TX,Haslet,76052,1912
+16,"1233 Candler Drive Lancaster, TX 75134-4603",1233 Candler Dr,TX,Lancaster,75134,1742
+17,"117 Charles St Desoto, TX 75115-3925",117 Charles St,TX,Desoto,75115,1725
+18,"502 Shockley Desoto, TX 75115-3314",502 Shockley Ave,TX,Desoto,75115,1850
+19,"14264 Chaps Dr Dallas, TX 75253",14264 Chaps Dr,TX,Dallas,75253,1770
+20,"15603 Danson Dr Dallas, TX 75253-5797",15603 Danson Dr,TX,Dallas,75253,1841
+21,"15635 Gatsby Ln Dallas, TX 75253-5798",15635 Gatsby Ln,TX,Dallas,75253,1840
+22,"8345 O Hara Lane Fort Worth, TX 76123-1505",8345 Ohara Ln,TX,Fort Worth,76123,1815
+23,"409 Kelley Fort Worth, TX 76120-1721",409 Kelley Ct,TX,Fort Worth,76120,1714
+24,"7632 Craig Street Fort Worth, TX 76112-7304",7632 Craig St,TX,Fort Worth,76112,1656
+25,"1102 Jefferson St #A Mckinney, TX 75069-6445",1102 Jefferson St,TX,Mckinney,75069,1750
+26,"8805 Millwood Rowlett, TX 75088-4410",8805 Millwood Dr,TX,Rowlett,75088,1983
+27,"2008 Apollo Richardson, TX 75081-3225",2008 Apollo Rd,TX,Richardson,75081,2324
+28,"7605 Harbor Rowlett, TX 75088-5329",7605 Harbor Dr,TX,Rowlett,75088,1668
+29,"2704 14th St Plano, TX 75074-6628",2704 14 St,TX,Plano,75074,1540
+30,"8205 Benares Dallas, TX 75243-3629",8205 Benares Dr,TX,Dallas,75243,1547
+31,"2042 Cardinal Lane Lewisville, TX 75077-1753",2042 Cardinal Ln,TX,Lewisville,75077,1979
+32,"1332 Lakecrest Ln Lewisville, TX 75057-2615",1332 Lake Crest Ln,TX,Lewisville,75057,1668
+33,"1304 Lakecrest Ln Lewisville, TX 75057-2615",1304 Lake Crest Ln,TX,Lewisville,75057,1676
+34,"1408 Lakecrest Ln Lewisville, TX 75057-2669",1408 Lake Crest Ln,TX,Lewisville,75057,1683
+35,"5645 Perrin Street The Colony, TX 75056-1946",5645 Perrin St,TX,The Colony,75056,1707
+36,"815 S Willow Sherman, TX 75090-8131",815 S Willow St,TX,Sherman,75090,1453
+37,"278 Meadowcrest Terrell, TX 75160-5109",278 Meadowcrest Dr,TX,Terrell,75160,1671
+38,"1821 Ridgecrest Terrell, TX 75160-5115",1821 Ridgecrest Dr,TX,Terrell,75160,1563
+39,"1941 Cross Oaks Lancaster, TX 75146-2041",1941 Cross Oaks Dr,TX,Lancaster,75146,1795
+40,"1422 Cascade St Mesquite, TX 75149-2358",1422 Cascade St,TX,Mesquite,75149,1558
+41,"617 Braden Mesquite, TX 75149-4046",617 Braden St,TX,Mesquite,75149,1536
+42,"927 Ranch Dallas, TX 75253-5051",927 Ranch Rd,TX,Dallas,75253,1758
+43,"7826 Arkan Parkway Dallas, TX 75241-5341",7826 Arkan Pkwy,TX,Dallas,75241,1630
+44,"2802 Tenison Ennis, TX 75119-7734",2802 Tenison Dr,TX,Ennis,75119,1835
+45,"9217 Abaco Way Fort Worth, TX 76123-3599",9217 Abaco Way,TX,Fort Worth,76123,1803
+46,"3516 Aruba Fort Worth, TX 76123-3527",3516 Aruba Ln,TX,Fort Worth,76123,1766
+47,"1321 Lyra Ln Arlington, TX 76013-8312",1321 Lyra Ln,TX,Arlington,76013,2874
+48,"1525 Bardfield Garland, TX 75041-4918",1525 Bardfield Ave,TX,Garland,75041,1647
+49,"11026 McCree Dallas, TX 75238-3033",11026 Mccree Rd,TX,Dallas,75238,2454
+50,"601 Eastern Star Garland, TX 75040-5125",601 Eastern Star Dr,TX,Garland,75040,1636
+51,"6517 Cypress Rockwall, TX 75087-4517",6517 Cypress Ln,TX,Rockwall,75087,1833
+52,"7409 Rutgers #A Rowlett, TX 75088-8552",7409 Rutgers Cir,TX,Rowlett,75088,2170
+53,"7409 Rutgers #B Rowlett, TX 75088-8552",7409 Rutgers Cir,TX,Rowlett,75088,2170
+54,"4016 Bandera Plano, TX 75074-3802",4016 Bandera Dr,TX,Plano,75074,2187
+55,"1650 Belltower Drive Lewisville, TX 75067-3201",1650 Belltower Dr,TX,Lewisville,75067,2014
+56,"1340 Lakecrest Ln Lewisville, TX 75057-2615",1340 Lake Crest Ln,TX,Lewisville,75057,1671
+57,"1312 Lakecrest Ln Lewisville, TX 75057-2615",1312 Lake Crest Ln,TX,Lewisville,75057,1669
+58,"1432 Lakecrest Lewisville, TX 75057-2669",1432 Lake Crest Ln,TX,Lewisville,75057,1681
+59,"15652 Gatsby Ln Dallas, TX 75253-5838",15652 Gatsby Ln,TX,Dallas,75253,1720
+60,"14325 Wrangler Dallas, TX 75253-4956",14325 Wrangler Way,TX,Dallas,75253,1985
+61,"15634 Gatsby Ln Dallas, TX 75253-5838",15634 Gatsby Ln,TX,Dallas,75253,1711
+62,"203 Martin Luther Duncanville, TX 75116-4028",203 Martin Luther Cir,TX,Duncanville,75116,1761
+63,"215 Oriole Duncanville, TX 75116-3813",215 Oriole Blvd,TX,Duncanville,75116,1597
+64,"303 Mizell Duncanville, TX 75116-3417",303 Mizell St,TX,Duncanville,75116,1876
+65,"6811 Orangeville Dr Dallas, TX 75237-2574",6811 Orangeville Dr,TX,Dallas,75237,1655
+66,"3441 Cayman Fort Worth, TX 76123-3519",3441 Cayman Dr,TX,Fort Worth,76123,1782
+67,"3512 Aruba Fort Worth, TX 76123-3527",3512 Aruba Ln,TX,Fort Worth,76123,1771
+68,"3613 Cayman Fort Worth, TX 76123-3586",3613 Cayman Dr,TX,Fort Worth,76123,1770
+69,"1818 Plantation Garland, TX 75044-7276",1818 Plantation Rd,TX,Garland,75044,1878
+70,"1205 Colony Garland, TX 75040-8147",1205 Colony Dr,TX,Garland,75040,1463
+71,"4221 Pineridge Garland, TX 75042-6144",4221 Pineridge Dr,TX,Garland,75042,1531
+72,"436 Perch Rockwall, TX 75032-6321",436 Perch Rd,TX,Rockwall,75032,1953
+73,"7721 Harbor Rowlett, TX 75088-5456",7721 Harbor Dr,TX,Rowlett,75088,1958
+74,"220 Dodge Trail Keller, TX 76248-4940",220 Dodge Trl,TX,Keller,76248,1888
+75,"610 Ascot Drive Euless, TX 76040-5547",610 Ascot Dr,TX,Euless,76040,2145
+76,"1511 Donley Drive Euless, TX 76039-2510",1511 Donley Dr,TX,Euless,76039,1677
+77,"1349 Lakecrest Lewisville, TX 75057-2666",1349 Lake Crest Ln,TX,Lewisville,75057,1664
+78,"1301 Lake Crest Lewisville, TX 75057-2666",1301 Lake Crest Ln,TX,Lewisville,75057,1701
+79,"1416 Lake Crest Ln Lewisville, TX 75057-2669",1416 Lake Crest Ln,TX,Lewisville,75057,1712
+80,"1050 Dubois Denison, TX 75020-7913",1050 Dubois St,TX,Denison,75020,1319
+81,"5809 Haney Watauga, TX 76148-3006",5809 Haney Dr,TX,Watauga,76148,1670
+82,"14248 Chaps Dr Dallas, TX 75253",14248 Chaps Dr,TX,Dallas,75253,1803
+83,"918 Abigale Dallas, TX 75253-5140",918 Abigale Ln,TX,Dallas,75253,1722
+84,"960 Ranch Dallas, TX 75253-5049",960 Ranch Rd,TX,Dallas,75253,1765
+85,"414 E Mona Duncanville, TX 75137-2428",414 E Mona Ave,TX,Duncanville,75137,1577
+86,"619 S Alexander Duncanville, TX 75137-2519",619 S Alexander Ave,TX,Duncanville,75137,1586
+87,"712 Woodcrest Ennis, TX 75119-7742",712 Woodcrest Dr,TX,Ennis,75119,2102
+88,"2800 Tenison Ennis, TX 75119-7734",2800 Tenison Dr,TX,Ennis,75119,1962
+89,"9101 Poynter Fort Worth, TX 76123-2609",9101 Poynter St,TX,Fort Worth,76123,1837
+90,"3617 Cayman Fort Worth, TX 76123-3586",3617 Cayman Dr,TX,Fort Worth,76123,1775
+91,"8005 Courageous Rowlett, TX 75089-2503",8005 Courageous Dr,TX,Rowlett,75089,1950
+92,"1724 Midcrest Plano, TX 75075-8537",1724 Midcrest Dr,TX,Plano,75075,2208
+93,"2617 Branch Oaks Garland, TX 75043-6008",2617 Branch Oaks Dr,TX,Garland,75043,1701
+94,"7245 Windcrest Lane North Richland Hills, TX 76182-7715",7245 Windcrest Ln,TX,North Richland Hills,76182,1773
+95,"1308 Lakecrest Lewisville, TX 75057-2615",1308 Lake Crest Ln,TX,Lewisville,75057,1670
+96,"1404 Lake Crest Ln Lewisville, TX 75057-2669",1404 Lake Crest Ln,TX,Lewisville,75057,1713
+97,"331 E Hull Denison, TX 75021-4921",331 E Hull St,TX,Denison,75021,1287
+98,"1104 Bainbridge Forney, TX 75126",1104 Bainbridge Ln,TX,Forney,75126,2098
+99,"7924 Eastwind Drive Fort Worth, TX 76137-1222",7924 Eastwind Dr,TX,Fort Worth,76137,1906
+100,"1407 Alta Vista Mesquite, TX 75149-2304",1407 Alta Vista St,TX,Mesquite,75149,1429
+101,"15648 Gatsby Ln Dallas, TX 75253-5838",15648 Gatsby Ln,TX,Dallas,75253,1719
+102,"949 Abigale Dallas, TX 75253-5795",949 Abigale Ln,TX,Dallas,75253,1709
+103,"947 Ranch Dallas, TX 75253-5051",947 Ranch Rd,TX,Dallas,75253,1769
+104,"931 Ranch Dallas, TX 75253-5051",931 Ranch Rd,TX,Dallas,75253,1748
+105,"7955 Kansas Dallas, TX 75241-5300",7955 Kansas Ave,TX,Dallas,75241,1635
+106,"818 Madrid Duncanville, TX 75116-3918",818 Madrid Dr,TX,Duncanville,75116,1753
+107,"3456 Cayman Fort Worth, TX 76123-3518",3456 Cayman Dr,TX,Fort Worth,76123,1786
+108,"9132 St Kitts Fort Worth, TX 76123-3522",9132 Saint Kitts Rd,TX,Fort Worth,76123,1782
+109,"3609 St Vincent Fort Worth, TX 76123-1434",3609 Saint Vincent Rd,TX,Fort Worth,76123,1740
+110,"3524 Aruba Fort Worth, TX 76123-3527",3524 Aruba Ln,TX,Fort Worth,76123,1754
+111,"3613 Clearbrook Fort Worth, TX 76123-2319",3613 Clearbrook Dr,TX,Fort Worth,76123,1966
+112,"141 Redbud Mckinney, TX 75069-3307",141 Redbud Trl,TX,Mckinney,75069,1635
+113,"3605 Smoketree Rockwall, TX 75032-9203",3605 Smoketree Dr,TX,Rockwall,75032,2074
+114,"1512 Hickory Creek Rockwall, TX 75032-7336",1512 Hickory Creek Ln,TX,Rockwall,75032,2249
+115,"1008 Windsong Richardson, TX 75081-4442",1008 Windsong Trl,TX,Richardson,75081,2417
+116,"6008 Redwood Rowlett, TX 75089-3103",6008 Redwood Ln,TX,Rowlett,75089,2027
+117,"1124 Siebold Ct. Mesquite, TX 75150-4249",1124 Siebold Ct,TX,Mesquite,75150,1836
+118,"4910 Vagas Rowlett, TX 75088-4816",4910 Vagas Dr,TX,Rowlett,75088,1963
+119,"106 Cedar View Rockwall, TX 75087-8707",106 Cedar View Dr,TX,Rockwall,75087,2303
+120,"806 Prairie Creek Princeton, TX 75407-6521",806 Prairie Creek Dr,TX,Princeton,75407,1481
+121,"701 Dickey Drive Euless, TX 76040-5566",701 Dickey Dr,TX,Euless,76040,1980
+122,"1344 Lakecrest Ln Lewisville, TX 75057-2615",1344 Lake Crest Ln,TX,Lewisville,75057,1682
+123,"1348 Lakecrest Ln Lewisville, TX 75057-2615",1344 Lake Crest Ln,TX,Lewisville,75057,1682
+124,"1309 Lakecrest Lewisville, TX 75057-2666",1309 Lake Crest Ln,TX,Lewisville,75057,1667
+125,"1428 Lakecrest Lewisville, TX 75057-2669",1428 Lake Crest Ln,TX,Lewisville,75057,1706
+126,"1121 E Rosedale St Sherman, TX 75090-8405",1121 E Rosedale St,TX,Sherman,75090,1285
+127,"260 Meadowcrest Terrell, TX 75160-5109",260 Meadowcrest Dr,TX,Terrell,75160,1702
+128,"1005 Cumberland Forney, TX 75126-6489",1005 Cumberland Dr,TX,Forney,75126,1844
+129,"14243 Chaps Drive Dallas, TX 75253",14243 Chaps Dr,TX,Dallas,75253,1761
+130,"15626 Gatsby Ln Dallas, TX 75253-5838",15626 Gatsby Ln,TX,Dallas,75253,1716
+131,"914 Abigale Dallas, TX 75253-5140",914 Abigale Ln,TX,Dallas,75253,1799
+132,"1815 Shady Glen Dallas, TX 75232-2349",1815 Shady Glen Ln,TX,Dallas,75232,1812
+133,"6743 Ohana Dallas, TX 75237-2581",6743 Ohana Pl,TX,Dallas,75237,1723
+134,"9208 Abaco Way Fort Worth, TX 76123-3598",9208 Abaco Way,TX,Fort Worth,76123,1768
+135,"9105 Poynter Fort Worth, TX 76123-2609",9105 Poynter St,TX,Fort Worth,76123,1830
+136,"2502 Channing Grand Prairie, TX 75052-3922",2502 Channing Dr,TX,Grand Prairie,75052,1700
+137,"3315 Westhoff Dr Grand Prairie, TX 75052-6123",3315 Westhoff Dr,TX,Grand Prairie,75052,1725
+138,"3326 Spring Meadow Grand Prairie, TX 75052-6482",3326 Spring Meadow Ln,TX,Grand Prairie,75052,1759
+139,"3142 Lisetta Grand Prairie, TX 75052-6080",3142 Lisetta St,TX,Grand Prairie,75052,1695
+140,"509 Ivy Way Garland, TX 75043-3223",509 Ivy Way,TX,Garland,75043,1749
+141,"3801 Remington Sachse, TX 75048-5433",3801 Remington Ct,TX,Sachse,75048,2258
+142,"901 Downing Forney, TX 75126-9717",901 Downing St,TX,Forney,75126,1883
+143,"602 Carl C Senter Forney, TX 75126-9732",602 Carl C Senter St,TX,Forney,75126,1757
+144,"468 Lakeside Rockwall, TX 75032-6134",468 Lakeside Dr,TX,Rockwall,75032,1540
+145,"123 Southampton Rockwall, TX 75032-6594",123 Southampton Dr,TX,Rockwall,75032,2412
+146,"2514 Amy Rowlett, TX 75088-5873",2514 Amy Ave,TX,Rowlett,75088,1936
+147,"1216 Falling Water Drive Lewisville, TX 75067-7437",1216 Falling Water Dr,TX,Lewisville,75067,2159
+148,"405 Live Oak Drive Euless, TX 76040-3926",405 Live Oak Dr,TX,Euless,76040,2058
+149,"1337 Lakecrest Lewisville, TX 75057-2666",1337 Lake Crest Ln,TX,Lewisville,75057,1667
+150,"1317 Lakecrest Lewisville, TX 75057-2666",1317 Lake Crest Ln,TX,Lewisville,75057,1670
+151,"1412 Lake Crest Ln Lewisville, TX 75057-2669",1412 Lake Crest Ln,TX,Lewisville,75057,1686
+152,"1621 Dragonback Pass Frisco, TX 75034-8711",1621 Dragonback Pass,TX,Frisco,75036,2182
+153,"2418 Midnight Plano, TX 75093-3826",2418 Midnight Dr,TX,Plano,75093,2305
+154,"520 E Day St Denison, TX 75021-4814",520 E Day St,TX,Denison,75021,1270
+155,"1231 S Perry Denison, TX 75020-6033",1231 S Perry Ave,TX,Denison,75020,1607
+156,"515 N Rusk Denison, TX 75020-2503",515 N Rusk Ave,TX,Denison,75020,1271
+157,"1827 Willowbrook Terrell, TX 75160-5131",1827 Willowbrook Dr,TX,Terrell,75160,1569
+158,"15642 Gatsby Ln Dallas, TX 75253-5838",15642 Gatsby Ln,TX,Dallas,75253,1873
+159,"930 Abigale Dallas, TX 75253-5140",930 Abigale Ln,TX,Dallas,75253,1801
+160,"963 Ranch Dallas, TX 75253-5051",963 Ranch Rd,TX,Dallas,75253,1893
+161,"6704 Ohana Dallas, TX 75237-2582",6704 Ohana Pl,TX,Dallas,75237,1725
+162,"1310 Independence Grand Prairie, TX 75052-2016",1310 Independence Trl,TX,Grand Prairie,75052,1700
+163,"1018 S Murray Mckinney, TX 75069-6212",1018 S Murray St,TX,Mckinney,75069,1506
+164,"3025 Coolwood Rockwall, TX 75032-7404",3025 Coolwood Ln,TX,Rockwall,75032,1813
+165,"306 Trailridge Richardson, TX 75081-4727",306 Trailridge Dr,TX,Richardson,75081,1969
+166,"1395 Stewart Rockwall, TX 75032-6566",1395 Stewart Dr,TX,Rockwall,75032,1869
+167,"1013 Weiss Princeton, TX 75407-6808",1013 Weiss Ave,TX,Princeton,75407,1409
+168,"3510 Princeton Dr Irving, TX 75062-4552",3510 Princeton Dr,TX,Irving,75062,1838
+169,"1321 Lakecrest Lewisville, TX 75057-2666",1321 Lake Crest Ln,TX,Lewisville,75057,1673
+170,"1420 Lake Crest Ln Lewisville, TX 75057-2669",1420 Lake Crest Ln,TX,Lewisville,75057,1686
+171,"2933 Deep Valley Plano, TX 75075-1924",2933 Deep Valley Trl,TX,Plano,75075,2559
+172,"2908 Newport Plano, TX 75075-2217",2908 Newport Cir,TX,Plano,75075,2456
+173,"2021 Cobblestone Forney, TX 75126",2021 Cobblestone Trl,TX,Forney,75126,1938
+174,"1401 Mount Vernon Dr Mesquite, TX 75149-1951",1401 Mount Vernon Dr,TX,Mesquite,75149,1731
+175,"14259 Chaps Drive Dallas, TX 75253",14259 Chaps Dr,TX,Dallas,75253,1822
+176,"969 Hannah Way Dallas, TX 75253-5799",969 Hannah Way,TX,Dallas,75253,1803
+177,"953 Abigale Dallas, TX 75253-5795",953 Abigale Ln,TX,Dallas,75253,1706
+178,"8425 Sweet Flag Lane Fort Worth, TX 76123-4269",8425 Sweet Flag Ln,TX,Fort Worth,76123,2403
+179,"1701 Wilderness Grand Prairie, TX 75052-2077",1701 Wilderness Trl,TX,Grand Prairie,75052,1748
+180,"505 Cranbrook Lane Grand Prairie, TX 75052-5135",505 Cranbrook Ln,TX,Grand Prairie,75052,1639
+181,"2613 Santa Margarita Grand Prairie, TX 75052-5245",2613 Santa Margarita St,TX,Grand Prairie,75052,1649
+182,"2325 Sheriff Grand Prairie, TX 75051-4212",2325 Sheriff Dr,TX,Grand Prairie,75051,1765
+183,"5908 Firethorn Dallas, TX 75249-2803",5908 Firethorn Dr,TX,Dallas,75249,1814
+184,"305 Boxwood Dr Mesquite, TX 75150-4507",305 Boxwood Dr,TX,Mesquite,75150,1711
+185,"5026 Stagecoach Garland, TX 75043-3533",5026 Stagecoach Ln,TX,Garland,75043,1656
+186,"311 Trout Rockwall, TX 75032-6328",311 Trout St,TX,Rockwall,75032,1590
+187,"7901 Tulane Rowlett, TX 75088-6638",7901 Tulane Dr,TX,Rowlett,75088,1874
+188,"7408 Rutgers #A Rowlett, TX 75088-8552",7408 Rutgers Cir,TX,Rowlett,75088,1815
+189,"7408 Rutgers #B Rowlett, TX 75088-8552",7408 Rutgers Cir,TX,Rowlett,75088,1815
+190,"1333 Lakecrest Lewisville, TX 75057-2666",1333 Lake Crest Ln,TX,Lewisville,75057,1665
+191,"1305 Lakecrest Lewisville, TX 75057-2666",1305 Lake Crest Ln,TX,Lewisville,75057,1671
+192,"941 Longhorn Plano, TX 75023-4458",941 Longhorn Dr,TX,Plano,75023,1938
+193,"817 S Vaden Sherman, TX 75090-8151",817 S Vaden St,TX,Sherman,75090,1237
+194,"1820 Culberson Mesquite, TX 75150-5918",1820 Culberson Dr,TX,Mesquite,75150,1726
+195,"1555 Vida Dallas, TX 75253-4867",1555 Vida Ct,TX,Dallas,75253,1632
+196,"222 Creekwood Court Duncanville, TX 75116-4034",222 Creekwood Ct,TX,Duncanville,75116,1746
+197,"1006 Hoylake Ct Ennis, TX 75119-7657",1006 Hoylake Ct,TX,Ennis,75119,1939
+198,"705 Woodcrest Dr Ennis, TX 75119-7753",705 Woodcrest Dr,TX,Ennis,75119,1834
+199,"9129 Abaco Way Fort Worth, TX 76123-3597",9129 Abaco Way,TX,Fort Worth,76123,1777
+200,"2614 Parkside Grand Prairie, TX 75052-4613",2614 Parkside Dr,TX,Grand Prairie,75052,1835
+201,"2619 Primrose Rowlett, TX 75089-6714",2619 Primrose Ln,TX,Rowlett,75089,1822
+202,"6613 Ruth Cir Rowlett, TX 75089-8296",6613 Ruth Cir,TX,Rowlett,75089,1911
+203,"2001 Diamondback Forney, TX 75126-5172",2001 Diamondback,TX,Forney,75126,1990
+204,"3305 Scott Rowlett, TX 75088-5723",3305 Scott Dr,TX,Rowlett,75088,1912
+205,"4909 Highgate Rowlett, TX 75088-8904",4909 Highgate Ln,TX,Rowlett,75088,2070
+206,"1328 Lakecrest Ln Lewisville, TX 75057-2615",1328 Lake Crest Ln,TX,Lewisville,75057,1671
+207,"1313 Lakecrest Lewisville, TX 75057-2666",1313 Lake Crest Ln,TX,Lewisville,75057,1670
+208,"1424 Lakecrest Lewisville, TX 75057-2669",1424 Lake Crest Ln,TX,Lewisville,75057,1681
+209,"2809 Pinehurst Plano, TX 75075-1910",2809 Pinehurst Dr,TX,Plano,75075,2406
+210,"1102 E Rosedale St Sherman, TX 75090-8406",1102 E Rosedale St,TX,Sherman,75090,1208
+211,"1825 Ridgecrest Terrell, TX 75160-5115",1825 Ridgecrest Dr,TX,Terrell,75160,1585
+212,"1000 Hampton Forney, TX 75126-6505",1000 Hampton Dr,TX,Forney,75126,1806
+213,"3114 Berkshire Dr. Mesquite, TX 75150-3545",3114 Berkshire Dr,TX,Mesquite,75150,1705
+214,"2521 Greenhill Dr. Mesquite, TX 75150-5220",2521 Greenhill Dr,TX,Mesquite,75150,1653
+215,"15623 Gatsby Ln Dallas, TX 75253-5798",15623 Gatsby Ln,TX,Dallas,75253,1839
+216,"9133 Curacao Fort Worth, TX 76123-3593",9133 Curacao Dr,TX,Fort Worth,76123,1774
+217,"9109 Abaco Fort Worth, TX 76123-3597",9109 Abaco Way,TX,Fort Worth,76123,1950
+218,"9120 St Barts Fort Worth, TX 76123-3524",9120 Saint Barts Rd,TX,Fort Worth,76123,1814
+219,"4309 German Pointer Way Fort Worth, TX 76123-3557",4309 German Pointer Way,TX,Fort Worth,76123,1791
+220,"2009 Wellington Grand Prairie, TX 75051-3742",2009 Wellington Dr,TX,Grand Prairie,75051,1734
+221,"1646 Hickory Creek Rockwall, TX 75032-7363",1646 Hickory Creek Ln,TX,Rockwall,75032,1813
+222,"1433 Glenwick Rockwall, TX 75032-6588",1433 Glenwick Dr,TX,Rockwall,75032,2046
+223,"2110 High Summit Garland, TX 75041-2075",2110 High Summit Dr,TX,Garland,75041,1662
+224,"472 Perch Rockwall, TX 75032-6321",472 Perch Rd,TX,Rockwall,75032,1547
+225,"6813 Lakeshore Rowlett, TX 75089-3734",6813 Lakeshore Dr,TX,Rowlett,75089,2380
+226,"1009 Weiss Princeton, TX 75407-6808",1009 Weiss Ave,TX,Princeton,75407,1423
+227,"206 Sunset Drive Euless, TX 76040-5382",206 Sunset Dr,TX,Euless,76040,1911
+228,"1353 Lakecrest Lewisville, TX 75057-2666",1353 Lake Crest Ln,TX,Lewisville,75057,1666
+229,"1316 Lakecrest Ln Lewisville, TX 75057-2615",1316 Lake Crest Ln,TX,Lewisville,75057,1670
+230,"1429 Lakecrest Lewisville, TX 75057-2670",1429 Lake Crest Ln,TX,Lewisville,75057,1706
+231,"15630 Gatsby Ln Dallas, TX 75253-5838",15630 Gatsby Ln,TX,Dallas,75253,1873
+232,"6728 Ohana Dallas, TX 75237-2582",6728 Ohana Pl,TX,Dallas,75237,1780
+233,"6818 Beechnut Dallas, TX 75237-2579",6818 Beechnut St,TX,Dallas,75237,1710
+234,"805 Oakmont Ennis, TX 75119-7730",805 Oakmont Dr,TX,Ennis,75119,2031
+235,"703 Woodcrest Dr Ennis, TX 75119-7753",703 Woodcrest Dr,TX,Ennis,75119,1973
+236,"3608 St Vincent Fort Worth, TX 76123-1423",3608 Saint Vincent Rd,TX,Fort Worth,76123,1762
+237,"8429 Sweet Flag Lane Fort Worth, TX 76123-4269",8429 Sweet Flag Ln,TX,Fort Worth,76123,2519
+238,"732 Fleming Wylie, TX 75098-5800",732 Fleming St,TX,Wylie,75098,1747
+239,"9117 Fairmont Rowlett, TX 75088-4650",9117 Fairmont Cir,TX,Rowlett,75088,1815
+240,"9009 Davis Rowlett, TX 75088-4525",9009 Davis St,TX,Rowlett,75088,1941
+241,"2026 Childress Forney, TX 75126",2026 Childress Dr,TX,Forney,75126,2003
+242,"1405 Silver Maple Royse City, TX 75189-8156",1405 Silver Maple Ln,TX,Royse City,75189,1693
+243,"2606 Trenton Plano, TX 75075-2931",2606 Trenton Ct,TX,Plano,75075,2434
+244,"2937 Lawndale Drive Lancaster, TX 75134-3754",2937 Lawndale Dr,TX,Lancaster,75134,1513
+245,"8613 Bearden Dallas, TX 75227-7025",8613 Bearden Ln,TX,Dallas,75227,1697
+246,"2925 Concord Mesquite, TX 75150-3524",2925 Concord Dr,TX,Mesquite,75150,1674
+247,"413 Lindo Mesquite, TX 75149-4755",413 Lindo Dr,TX,Mesquite,75149,1489
+248,"2704 Park St Ennis, TX 75119-7653",2704 Park St,TX,Ennis,75119,1818
+249,"708 Woodcrest Ennis, TX 75119-7742",708 Woodcrest Dr,TX,Ennis,75119,1980
+250,"701 Oakmont Ennis, TX 75119-7729",701 Oakmont Dr,TX,Ennis,75119,1855
+251,"3449 Cayman Fort Worth, TX 76123-3519",3449 Cayman Dr,TX,Fort Worth,76123,1780
+252,"4909 Treeside Drive Fort Worth, TX 76123-2948",4909 Treeside Dr,TX,Fort Worth,76123,2035
+253,"327 Mulberry Fate, TX 75087-6787",327 Mulberry Dr,TX,Fate,75087,1761
+254,"1304 Seabrook Plano, TX 75023-2927",1304 Seabrook Dr,TX,Plano,75023,1809
+255,"1322 Jasmine Drive Lewisville, TX 75077-2140",1322 Jasmine Dr,TX,Lewisville,75077,1850
+256,"5917 Oak Hill Road Watauga, TX 76148-1653",5917 Oak Hill Rd,TX,Watauga,76148,1693
+257,"802 Poinsettia Lancaster, TX 75146-2224",802 Poinsettia Dr,TX,Lancaster,75146,1561
+258,"321 Meadowcreek Desoto, TX 75115-5754",321 Meadowcreek Dr,TX,Desoto,75115,1618
+259,"14235 Chaps Drive Dallas, TX 75253",14235 Chaps Dr,TX,Dallas,75253,1823
+260,"826 E Celeste Garland, TX 75041-3217",826 E Celeste Dr,TX,Garland,75041,1565
+261,"418 Thistle Garland, TX 75043-3236",418 Thistle Dr,TX,Garland,75043,1733
+262,"4130 Salem Garland, TX 75043-3254",4130 Salem Dr,TX,Garland,75043,1602
+263,"130 Southampton Rockwall, TX 75032-6593",130 Southampton Dr,TX,Rockwall,75032,2651
+264,"3309 Magnolia Rowlett, TX 75089-3156",3309 Magnolia Ct,TX,Rowlett,75089,1821
+265,"316 Peachtree Princeton, TX 75407-5744",316 Peachtree Ln,TX,Princeton,75407,1606
+266,"4513 Hartford Plano, TX 75093-5420",4513 Hartford Dr,TX,Plano,75093,2383
+267,"849 Lariat Drive Saginaw, TX 76131-4954",849 Lariat Dr,TX,Saginaw,76131,1820
+268,"837 Arcadia Street Saginaw, TX 76179-3401",837 Arcadia St,TX,Saginaw,76179,1919
+269,"10566 Dunaway Dallas, TX 75228-2748",10566 Dunaway Dr,TX,Dallas,75228,1601
+270,"14219 Chaps Drive Dallas, TX 75253",14219 Chaps Dr,TX,Dallas,75253,1803
+271,"4867 Cole St. Fort Worth, TX 76115-3613",4867 Cole St,TX,Fort Worth,76115,1464
+272,"303 Trailridge Richardson, TX 75081-4728",303 Trailridge Dr,TX,Richardson,75081,2245
+273,"377 Perch Rockwall, TX 75032-6167",377 Perch Rd,TX,Rockwall,75032,1618
+274,"1341 Lakecrest Lewisville, TX 75057-2666",1341 Lake Crest Ln,TX,Lewisville,75057,1667
+275,"1822 Willowbrook Terrell, TX 75160-5132",1822 Willowbrook Dr,TX,Terrell,75160,1616
+276,"1818 Willowbrook Terrell, TX 75160-5132",1818 Willowbrook Dr,TX,Terrell,75160,1590
+277,"8517 Santa Ana Drive Fort Worth, TX 76131-5318",8517 Santa Ana Dr,TX,Fort Worth,76131,1950
+278,"973 Hannah Way Dallas, TX 75253-5799",973 Hannah Way,TX,Dallas,75253,1734
+279,"961 Hannah Way Dallas, TX 75253-5799",961 Hannah Way,TX,Dallas,75253,1802
+280,"922 Abigale Dallas, TX 75253-5140",922 Abigale Ln,TX,Dallas,75253,1803
+281,"9149 St Kitts Fort Worth, TX 76123-3523",9149 Saint Kitts Rd,TX,Fort Worth,76123,2222
+282,"8314 Kensington Rowlett, TX 75088-4351",8314 Kensington Dr,TX,Rowlett,75088,1844
+283,"4404 Augusta Street The Colony, TX 75056-3501",4404 Augusta St,TX,The Colony,75056,2011
+284,"1400 Lakecrest Ln Lewisville, TX 75057-2669",1400 Lake Crest Ln,TX,Lewisville,75057,1683
+285,"2210 Sumac Forney, TX 75126-6598",2210 Sumac Dr,TX,Forney,75126,1805
+286,"3465 Cayman Fort Worth, TX 76123-3519",3465 Cayman Dr,TX,Fort Worth,76123,1961
+287,"8822 Westfield Rowlett, TX 75088-4611",8822 Westfield Dr,TX,Rowlett,75088,1908
+288,"1354 Mill Crossing Garland, TX 75040-7548",1354 Mill Xing,TX,Garland,75040,1903
+289,"6405 Magnolia Rowlett, TX 75089-3167",6405 Magnolia Ln,TX,Rowlett,75089,1767
+290,"518 Forestwood Forney, TX 75126",518 Forestwood Dr,TX,Forney,75126,1779
+291,"1345 Lakecrest Lewisville, TX 75057-2666",1345 Lake Crest Ln,TX,Lewisville,75057,1664
+292,"1816 Willowbrook Terrell, TX 75160-5132",1816 Willowbrook Dr,TX,Terrell,75160,1655
+293,"1107 Cumberland Forney, TX 75126",1107 Cumberland Dr,TX,Forney,75126,1781
+294,"2113 Preston Forney, TX 75126-6306",2113 Preston Trl,TX,Forney,75126,1917
+295,"1945 Cross Oaks Lancaster, TX 75146-2041",1945 Cross Oaks Dr,TX,Lancaster,75146,1905
+296,"1222 Mockingbird Ln Desoto, TX 75115-7138",1222 Mockingbird Ln,TX,Desoto,75115,1580
+297,"2621 Carrington Grand Prairie, TX 75052-4005",2621 Carrington Ln,TX,Grand Prairie,75052,1924
+298,"917 Montclair Garland, TX 75040-8135",917 Montclair Dr,TX,Garland,75040,1619
+299,"7607 Harbor Rowlett, TX 75088-5329",7607 Harbor Dr,TX,Rowlett,75088,1543
+300,"1168 Settlers Way Lewisville, TX 75067-7408",1168 Settlers Way,TX,Lewisville,75067,1914
+301,"210 Austin Grapevine, TX 76051-3663",210 Austin St,TX,Grapevine,76051,2052
+302,"1811 W College Sherman, TX 75092-5321",1811 W College St,TX,Sherman,75092,1363
+303,"2817 Mcintosh Lancaster, TX 75134-4912",2817 Mcintosh Ct,TX,Lancaster,75134,1736
+304,"1220 Mockingbird Ln Desoto, TX 75115-7138",1220 Mockingbird Ln,TX,Desoto,75115,1581
+305,"926 Abigale Dallas, TX 75253-5140",926 Abigale Ln,TX,Dallas,75253,1753
+306,"9212 Abaco Way Fort Worth, TX 76123-3598",9212 Abaco Way,TX,Fort Worth,76123,1761
+307,"9240 Curacao Fort Worth, TX 76123-3594",9240 Curacao Dr,TX,Fort Worth,76123,1771
+308,"1025 Morrison Drive Fort Worth, TX 76120-3423",1025 Morrison Dr,TX,Fort Worth,76120,1776
+309,"8113 Chesham Rowlett, TX 75088-7656",8113 Chesham Dr,TX,Rowlett,75088,1927
+310,"704 Ashbrook Drive Desoto, TX 75115-5836",704 Ashbrook Dr,TX,Desoto,75115,1685
+311,"9201 Curacao Fort Worth, TX 76123-3595",9201 Curacao Dr,TX,Fort Worth,76123,1799
+312,"9205 Abaco Way Fort Worth, TX 76123-3599",9205 Abaco Way,TX,Fort Worth,76123,1805
+313,"9121 St Barts Fort Worth, TX 76123-3525",9121 Saint Barts Rd,TX,Fort Worth,76123,1777
+314,"2637 Hamilton Grand Prairie, TX 75052-4011",2637 Hamilton Dr,TX,Grand Prairie,75052,1778
+315,"3057 Coolwood Rockwall, TX 75032-7404",3057 Coolwood Ln,TX,Rockwall,75032,2410
+316,"3323 Augusta Rockwall, TX 75087-5302",3323 Augusta Blvd,TX,Rockwall,75087,2025
+317,"1324 Lakecrest Ln Lewisville, TX 75057-2615",1324 Lake Crest Ln,TX,Lewisville,75057,1672
+318,"14267 Chaps Drive Dallas, TX 75253",14267 Chaps Dr,TX,Dallas,75253,1964
+319,"910 Abigale Dallas, TX 75253-5140",910 Abigale Ln,TX,Dallas,75253,1725
+320,"3445 Cayman Fort Worth, TX 76123-3519",3445 Cayman Dr,TX,Fort Worth,76123,1776
+321,"2537 Harvest Moon Fort Worth, TX 76123-1257",2537 Harvest Moon Dr,TX,Fort Worth,76123,1675
+322,"6122 Cedar Rowlett, TX 75089-3123",6122 Cedar Ln,TX,Rowlett,75089,1758
+323,"905 Boxwood Drive Lewisville, TX 75067-4221",905 Boxwood Dr,TX,Lewisville,75067,1689
+324,"5309 Tennis Villa Arlington, TX 76017-1758",5309 Tennis Villa Dr,TX,Arlington,76017,1818
+325,"1329 Lakecrest Lewisville, TX 75057-2666",1329 Lake Crest Ln,TX,Lewisville,75057,1665
+326,"1925 Cross Oaks Lancaster, TX 75146-2041",1925 Cross Oaks Dr,TX,Lancaster,75146,1828
+327,"1325 Lakecrest Lewisville, TX 75057-2666",1325 Lake Crest Ln,TX,Lewisville,75057,1667
+328,"629 Beatty Grand Prairie, TX 75052-6149",629 Beatty Dr,TX,Grand Prairie,75052,1855
+329,"935 Sylvan Creek Drive Lewisville, TX 75067-4233",935 Sylvan Creek Dr,TX,Lewisville,75067,1867
+330,"1321 Overlook Drive Lewisville, TX 75067-4925",1321 Overlook Dr,TX,Lewisville,75067,1949
+331,"1352 Lakecrest Ln Lewisville, TX 75057-2615",1352 Lake Crest Ln,TX,Lewisville,75057,1683
+332,"2085 Sundance Court Lewisville, TX 75067-7405",2085 Sundance Ct,TX,Lewisville,75067,2052
+333,"5405 Edgewater Circle Rowlett, TX 75088-4133",5405 Edgewater Cir,TX,Rowlett,75088,1959
