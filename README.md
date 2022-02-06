@@ -1,5 +1,5 @@
 # nearest-properties
- Reads csv file and adds three nearest properties within 1km
+ Reads csv file and adds three nearest properties within 1km. The results can be found in ```Dallas_house_results.csv``` in the root directory.
 
 # How to run
 
