@@ -1,0 +1,13 @@
+<div>
+    <h1>Results</h1>
+    <!--display error if any-->
+    <div role="alert" th:if="${!status}">
+        <strong>Error:</strong>
+        <span th:text="${message}"></span>
+    </div>
+    <div th:if="${status}">
+        <form method="GET" action="./Dallas_houses_results">
+            <button type="submit">Download Results</button>
+        </form>
+    </div>
+</div>

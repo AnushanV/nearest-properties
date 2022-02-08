@@ -1,0 +1,7 @@
+<form method="POST" th:action="@{/file-results}" enctype="multipart/form-data">
+    <div>
+        <label for="file">Select a CSV file</label>
+        <input type="file" name="file" class="form-control-file" id="file" accept=".csv">
+    </div>
+    <button type="submit">Import Houses</button>
+</form>

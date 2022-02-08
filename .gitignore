@@ -1,4 +1,3 @@
-out/artifacts/nearest_properties_jar/Dallas_houses_results.csv
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
